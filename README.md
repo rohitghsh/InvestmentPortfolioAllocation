@@ -1,4 +1,4 @@
-# Portfolio Selection, Optimization and Comparison
+# Investment Portfolio Selection, Optimization and Comparison
 Hello! Welcome to my notebook on Stock portfolio selection, optimization and comparison.
 
 In this notebook I aim to guide you on my project, while showing you my code and results in a well documented manner. Below is the gist of our work:
